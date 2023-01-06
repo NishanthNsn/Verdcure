@@ -1,1 +1,3 @@
 # Verdcure
+Farming is one of the major sectors that influence a country’s economic growth. In a country like India, the majority of the population is dependent on agriculture for their livelihood. New technologies such as Artificial Intelligence, Internet of things, Machine Learning, Deep Learning and many more are being integrated into agriculture making it easier for farmers to grow and maximize their yield.
+This work is focused on building a system which can detect the diseases affecting the leaves of the various plants using Convolution Neural Networks. After diagnosis of disease, the system will suggest various measures to cure or prevent the same.
